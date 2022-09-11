@@ -1,0 +1,25 @@
+.addbtn{
+  text-align: right;
+}
+.container{
+  overflow: auto;
+}
+.avatarimg{
+  text-align: center;
+  height: 4rem;
+  width: 4rem;
+}
+.cards span{
+  font-weight: bold;
+}
+.cards .actions{
+  margin-top: 20px;
+}
+.cards{
+  padding: 2rem;
+  border: 1px solid black;
+}
+.logo{
+  text-decoration: none;
+  
+}
